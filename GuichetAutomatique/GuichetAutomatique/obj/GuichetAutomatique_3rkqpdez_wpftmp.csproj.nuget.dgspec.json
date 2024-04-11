@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Mivania\\OneDrive - Campus Support\\Bureau\\Projets école\\Guichet automatique (C#)\\GuichetAutomatique\\GuichetAutomatique\\GuichetAutomatique.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Mivania\\OneDrive - Campus Support\\Bureau\\Projets école\\Guichet automatique (C#)\\GuichetAutomatique\\GuichetAutomatique\\GuichetAutomatique.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mivania\\OneDrive - Campus Support\\Bureau\\Projets école\\Guichet automatique (C#)\\GuichetAutomatique\\GuichetAutomatique\\GuichetAutomatique.csproj",
+        "projectName": "GuichetAutomatique",
+        "projectPath": "C:\\Users\\Mivania\\OneDrive - Campus Support\\Bureau\\Projets école\\Guichet automatique (C#)\\GuichetAutomatique\\GuichetAutomatique\\GuichetAutomatique.csproj",
+        "packagesPath": "C:\\Users\\Mivania\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mivania\\OneDrive - Campus Support\\Bureau\\Projets école\\Guichet automatique (C#)\\GuichetAutomatique\\GuichetAutomatique\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mivania\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "System.Data.Common": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

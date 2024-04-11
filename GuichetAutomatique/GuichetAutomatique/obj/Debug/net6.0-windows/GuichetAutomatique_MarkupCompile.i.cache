@@ -1,0 +1,20 @@
+﻿GuichetAutomatique
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\
+GuichetAutomatique
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\App.xaml
+11-1621192202
+
+161520769876
+2221633374257
+Accueil.xaml;Admin.xaml;DepotFonds.xaml;DepotFonds2.xaml;InfoClient.xaml;Login.xaml;PaiementFactures.xaml;ReleveTransactions.xaml;RetraitFonds.xaml;RetraitFonds2.xaml;Virement.xaml;
+
+False
+

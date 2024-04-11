@@ -1,0 +1,261 @@
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\GuichetAutomatique.csproj.AssemblyReference.cache
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\Accueil.g.cs
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\Admin.g.cs
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\DepotFonds.g.cs
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\DepotFonds2.g.cs
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\InfoClient.g.cs
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\Login.g.cs
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\PaiementFactures.g.cs
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\ReleveTransactions.g.cs
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\RetraitFonds.g.cs
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\RetraitFonds2.g.cs
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\Virement.g.cs
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\GuichetAutomatique_MarkupCompile.cache
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\GuichetAutomatique_MarkupCompile.lref
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\GuichetAutomatique.exe
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\GuichetAutomatique.dll.config
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\GuichetAutomatique.deps.json
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\GuichetAutomatique.runtimeconfig.json
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\GuichetAutomatique.dll
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\GuichetAutomatique.pdb
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\Accueil.baml
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\Admin.baml
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\DepotFonds.baml
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\DepotFonds2.baml
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\InfoClient.baml
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\Login.baml
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\PaiementFactures.baml
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\ReleveTransactions.baml
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\RetraitFonds.baml
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\RetraitFonds2.baml
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\Virement.baml
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\GuichetAutomatique.g.resources
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\GuichetAutomatique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\GuichetAutomatique.AssemblyInfoInputs.cache
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\GuichetAutomatique.AssemblyInfo.cs
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\GuichetAutomatique.csproj.CoreCompileInputs.cache
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\GuichetAutomatique.csproj.CopyComplete
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\GuichetAutomatique.dll
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\refint\GuichetAutomatique.dll
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\GuichetAutomatique.pdb
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\GuichetAutomatique.genruntimeconfig.cache
+C:\Users\Mivania\OneDrive - Campus Support\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\ref\GuichetAutomatique.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\GuichetAutomatique.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\refint\GuichetAutomatique.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\GuichetAutomatique.pdb
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\GuichetAutomatique.exe
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\GuichetAutomatique.dll.config
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\GuichetAutomatique.deps.json
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\GuichetAutomatique.runtimeconfig.json
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\GuichetAutomatique.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\GuichetAutomatique.pdb
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\GuichetAutomatique.csproj.AssemblyReference.cache
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\Accueil.g.cs
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\Admin.g.cs
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\DepotFonds.g.cs
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\DepotFonds2.g.cs
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\InfoClient.g.cs
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\Login.g.cs
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\PaiementFactures.g.cs
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\ReleveTransactions.g.cs
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\RetraitFonds.g.cs
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\RetraitFonds2.g.cs
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\Virement.g.cs
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\GuichetAutomatique_MarkupCompile.cache
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\GuichetAutomatique_MarkupCompile.lref
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\Accueil.baml
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\Admin.baml
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\DepotFonds.baml
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\DepotFonds2.baml
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\InfoClient.baml
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\Login.baml
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\PaiementFactures.baml
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\ReleveTransactions.baml
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\RetraitFonds.baml
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\RetraitFonds2.baml
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\Virement.baml
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\GuichetAutomatique.g.resources
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\GuichetAutomatique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\GuichetAutomatique.AssemblyInfoInputs.cache
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\GuichetAutomatique.AssemblyInfo.cs
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\GuichetAutomatique.csproj.CoreCompileInputs.cache
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\GuichetA.5D09D66D.Up2Date
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\GuichetAutomatique.genruntimeconfig.cache
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\14. 420-P11-ID\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\ref\GuichetAutomatique.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\GuichetAutomatique.exe
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\GuichetAutomatique.dll.config
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\GuichetAutomatique.deps.json
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\GuichetAutomatique.runtimeconfig.json
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\GuichetAutomatique.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\GuichetAutomatique.pdb
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\GuichetAutomatique.csproj.AssemblyReference.cache
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\Accueil.g.cs
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\Admin.g.cs
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\DepotFonds.g.cs
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\DepotFonds2.g.cs
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\InfoClient.g.cs
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\Login.g.cs
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\PaiementFactures.g.cs
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\ReleveTransactions.g.cs
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\RetraitFonds.g.cs
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\RetraitFonds2.g.cs
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\Virement.g.cs
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\GuichetAutomatique_MarkupCompile.cache
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\GuichetAutomatique_MarkupCompile.lref
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\Accueil.baml
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\Admin.baml
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\DepotFonds.baml
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\DepotFonds2.baml
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\InfoClient.baml
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\Login.baml
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\PaiementFactures.baml
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\ReleveTransactions.baml
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\RetraitFonds.baml
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\RetraitFonds2.baml
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\Virement.baml
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\GuichetAutomatique.g.resources
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\GuichetAutomatique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\GuichetAutomatique.AssemblyInfoInputs.cache
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\GuichetAutomatique.AssemblyInfo.cs
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\GuichetAutomatique.csproj.CoreCompileInputs.cache
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\GuichetA.5D09D66D.Up2Date
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\GuichetAutomatique.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\refint\GuichetAutomatique.dll
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\GuichetAutomatique.pdb
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\GuichetAutomatique.genruntimeconfig.cache
+C:\Users\Mivania\OneDrive - Campus Support\Bureau\Projets école\Guichet automatique (C#)\GuichetAutomatique\GuichetAutomatique\obj\Debug\net6.0-windows\ref\GuichetAutomatique.dll

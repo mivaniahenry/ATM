@@ -1,0 +1,38 @@
+﻿<Window x:Class="GuichetAutomatique.PaiementFactures"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GuichetAutomatique"
+        mc:Ignorable="d"
+        Title="Paiement de Factures" Height="450" Width="800">
+    <Window.Resources>
+        <Style x:Key="ButtonStyle" TargetType="Button">
+            <Setter Property="Width" Value="200"/>
+            <Setter Property="Height" Value="100"/>
+            <Setter Property="Margin" Value="10"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Label Content="Veuillez choisir la facture à payer :" HorizontalAlignment="Center" Margin="10" FontSize="16" FontWeight="Bold" VerticalAlignment="Top" Grid.Row="0"/>
+        <StackPanel Grid.Row="1" Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Label Content="No. Compte :" HorizontalAlignment="Center"/>
+            <ComboBox x:Name="cptProvPay" Width="300" DisplayMemberPath="IdCompte" SelectedValuePath="IdCompte"/>
+            <Label Content="Facture à payer :" HorizontalAlignment="Center"/>
+            <ComboBox x:Name="cptDestPay" Width="300" DisplayMemberPath="IdFacture" SelectedValuePath="IdFacture"/>
+            <Label Content="Montant :" HorizontalAlignment="Center"/>
+            <TextBox x:Name="txtMontantFacture" Width="150" TextWrapping="Wrap"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button x:Name="OKPaiement" Content="OK" Style="{StaticResource ButtonStyle}" Click="OKPaiement_Click"/>
+                <Button x:Name="AnnulerPaiement" Content="Annuler" Style="{StaticResource ButtonStyle}" Click="AnnulerPaiement_Click"/>
+            </StackPanel>
+        </StackPanel>
+        <Button x:Name="Quitter" Content="Reprendre votre carte" Style="{StaticResource ButtonStyle}" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="10" Height="50" Width="210" Click="Quitter_Click"/>
+    </Grid>
+</Window>

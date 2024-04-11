@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Accueil.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Admin.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="DepotFonds.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="DepotFonds2.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="InfoClient.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Login.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="PaiementFactures.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ReleveTransactions.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="RetraitFonds.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="RetraitFonds2.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Virement.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Accueil.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Admin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="DepotFonds.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="DepotFonds2.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="InfoClient.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Login.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="PaiementFactures.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ReleveTransactions.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="RetraitFonds.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="RetraitFonds2.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Virement.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

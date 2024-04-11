@@ -1,0 +1,36 @@
+﻿<Window x:Class="GuichetAutomatique.Accueil"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GuichetAutomatique"
+        mc:Ignorable="d"
+        Title="Banque : Accueil" Height="450" Width="800">
+    <Window.Resources>
+        <Style x:Key="ButtonStyle" TargetType="Button">
+            <Setter Property="Width" Value="200"/>
+            <Setter Property="Height" Value="100"/>
+            <Setter Property="Margin" Value="10"/>
+          </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Label Content="Veuillez choisir une opération" HorizontalAlignment="Center" Margin="10" VerticalAlignment="Top" FontSize="16" FontWeight="Bold"/>
+        <StackPanel Orientation="Vertical" Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button x:Name="Retrait" Content="Retrait" Click="Retrait_Click" Style="{StaticResource ButtonStyle}"/>
+                <Button x:Name="Depot" Content="Dépôt" Click="Depot_Click" Style="{StaticResource ButtonStyle}"/>
+                <Button x:Name="Virement" Content="Virement" Click="Virement_Click" Style="{StaticResource ButtonStyle}"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button x:Name="PaiementFacture" Content="Paiement de facture" Click="PaiementFacture_Click" Style="{StaticResource ButtonStyle}"/>
+                <Button x:Name="InfoCompte" Content="Information sur mes comptes" Click="InfoCompte_Click" Style="{StaticResource ButtonStyle}"/>
+                <Button x:Name="ReleveTrans" Content="Relevé de transaction" Click="ReleveTrans_Click" Style="{StaticResource ButtonStyle}"/>
+            </StackPanel>
+            <Button x:Name="Quitter" Content="Reprendre votre carte" HorizontalAlignment="Center" Height="50" Width="210" Margin="10" Click="Quitter_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
